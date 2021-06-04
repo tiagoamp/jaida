@@ -1,0 +1,56 @@
+:root {
+  margin: 0;
+  --bg-color: #222;
+  --color-primary: #B27300;
+  --color-green: #3B7A57;
+  --color-red: #AB274F;
+  --color-blue: #5D8AA8;
+  --color-blue2: #72A0C1;
+  --color-text: #F0F8FF;
+  --color-text1: #F2F3F4;
+  --color-text2: #DBE9F4;
+  --color-text3: #F5F5F5;
+}
+
+.App {
+  background-color: var(--bg-color);
+
+  height: 100vh;
+
+}
+
+.test1 {
+  color: var(--color-primary);
+}
+
+.test2 {
+  color: var(--color-green);
+}
+
+.test3 {
+  color: var(--color-red);
+}
+
+.test4 {
+  color: var(--color-blue);
+}
+
+.test5 {
+  color: var(--color-blue2);
+}
+
+.test6 {
+  color: var(--color-text);
+}
+
+.test7 {
+  color: var(--color-text1);
+}
+
+.test8 {
+  color: var(--color-text2);
+}
+
+.test9 {
+  color: var(--color-text3);
+}
